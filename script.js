@@ -1,3 +1,1 @@
-function clicar() {
-  alert("Funcionando!");
-}
+alert("Projeto Conecte & Crie iniciado 🚀");
